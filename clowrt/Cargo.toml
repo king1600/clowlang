@@ -1,0 +1,8 @@
+[package]
+name = "clowrt"
+version = "0.1.0"
+authors = ["king1600"]
+edition = "2018"
+
+[dependencies]
+libc = "0.2"
